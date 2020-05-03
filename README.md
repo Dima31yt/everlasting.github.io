@@ -1,8 +1,8 @@
 ## Привет это Дмитрий (разработчик)
 
-Ты можешь зайти на мою [страницу в ВК](https://vk.com/salam_alekum410), все вопром
+Ты можешь зайти на мою [страницу в ВК](https://vk.com/salam_alekum410)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Времменно наш сайт переехал на новый адрес
 
 ### Markdown
 
